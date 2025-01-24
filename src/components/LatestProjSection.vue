@@ -111,11 +111,11 @@ const Projects = ref([
     id: 1,
     category: "web development",
     image: "src/assets/portfolioRikza.JPG",
-    title: "project 1",
+    title: "Portofolio",
     description:
-      "loem ipsdjfd eiuwd  wfd unwdjwd dknsdks ksneudsk kjbsdjkfbuweds skudbnduw uskewopqndf fks idnfirisn kwenfnddnsm kdnd ",
+      "My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology. ",
     technologies: ["vue.js 3", "vite", "Tailwind"],
-    gitURL: '',
+    gitURL: 'https://github.com/RikzaRza/rikzarza.github.io',
     webURL: '',
   }
 ]);

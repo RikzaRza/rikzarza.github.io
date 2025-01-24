@@ -1,6 +1,6 @@
 <template>
     <section class="text-white mt-20" id="about">
-        <div class="absolute z-0 top-[88rem] inset-x-0 h-64 flex items-start">
+        <div class="absolute z-0 top-[84rem] inset-x-0 h-64 flex items-start">
             <div class="h-24 w-64 bg-gradient-to-br from-primary via-secondary blur-2xl to-[#570cac] opacity-20"></div>
         </div>
         <div class="md:grid md:grid-cols-2 gap-8 items-center py-28 px-4 xl:gap-16 sm:py-24 xl:px-16 z-1">

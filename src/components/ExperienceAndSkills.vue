@@ -67,7 +67,7 @@
                 </div>
                 <div class="flex items-center text-sm md:text-base lg:text-lg">
                   <div
-                    class="tech font-medium text-secondary transition-all duration-300 translate-y-0"
+                    class="tech font-medium text-white transition-all duration-300 translate-y-0"
                   >
                     {{ item.name }}
                   </div>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="flex items-center text-sm md:text-base lg:text-lg">
                   <div
-                    class="tech font-medium text-secondary transition-all duration-300 translate-y-0"
+                    class="tech font-medium text-white transition-all duration-300 translate-y-0"
                   >
                     {{ item.name }}
                   </div>
@@ -191,14 +191,14 @@ export default {
           name: "PHP",
           imageUrl:
             "https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png",
-          status: "Advanced",
+          status: "Intermediate",
         },
         {
           id: 4,
           name: "Javascript",
           imageUrl:
             "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
-          status: "Advance",
+          status: "Intermediate",
         },
         {
           id: 5,
@@ -211,7 +211,7 @@ export default {
           name: "Codeigniter",
           imageUrl:
             "https://img.icons8.com/?size=100&id=DtBPN1O4CCnF&format=png&color=000000",
-          status: "Intermediate",
+          status: "Advance",
         },
         {
           id: 7,
@@ -246,7 +246,7 @@ export default {
           name: "Bootstrap",
           imageUrl:
             "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
-          status: "Intermediate",
+          status: "Advance",
         },
         {
           id: 12,
