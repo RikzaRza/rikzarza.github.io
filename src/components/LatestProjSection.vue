@@ -110,13 +110,13 @@ const Projects = ref([
   {
     id: 1,
     category: "web development",
-    image: "src/assets/portfolioRikza.JPG",
+    image: "src/assets/portfolioRikza.jpg",
     title: "Portofolio",
     description:
       "My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology. ",
     technologies: ["vue.js 3", "vite", "Tailwind"],
     gitURL: 'https://github.com/RikzaRza/rikzarza.github.io',
-    webURL: '',
+    webURL: 'https://rikzarza.netlify.app/',
   }
 ]);
 
