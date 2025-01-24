@@ -110,7 +110,7 @@ const Projects = ref([
   {
     id: 1,
     category: "web development",
-    image: "src/assets/portfolioRikza.jpg",
+    image: "src/assets/ssportofolio.png",
     title: "Portofolio",
     description:
       "My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology. ",
