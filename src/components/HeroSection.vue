@@ -87,7 +87,7 @@
               class="absolute z-0 top-1/2 -translate-y-1/3 w-5/6 right-0 h-[calc(80%+20px)] bg-gradient-to-tr opacity-25 from-[#570cac] to-primary blur-2xl"
             ></div>
             <div
-              class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-10 md:right-40 sm:right-16 rounded-full shadow-lg shadow-primary border border-primary"
+              class="absolute min-h-[160px] z-10 p-2 -translate-y-1/2 top-1/2 left-9 right-9 lg:h-full md:h-full sm:h-full lg:left-9 lg:right-9 md:left-48 md:right-48 sm:left-32 sm:right-32 rounded-full shadow-lg shadow-primary border border-primary"
             >
               <img
                 src="@/assets/pict8.jpeg"
@@ -95,7 +95,7 @@
                 width="500"
                 height="auto"
                 loading="lazy"
-                class="w-full h-full rounded-full object-cover contrast-100 saturate-100 hue-rotate-15"
+                class=" lg:w-full lg:h-full md:w-full md:h-full sm:w-full sm:h-full xs:w-full xs:h-full w-full h-full rounded-full object-cover contrast-100 saturate-100 hue-rotate-15"
               />
             </div>
           </div>
