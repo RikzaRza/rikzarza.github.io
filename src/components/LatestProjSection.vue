@@ -33,7 +33,7 @@ export default {
     <article data-page="about">
       <header>
         <div
-          class="text-2xl mt-20 font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
+          class="text-2xl mt-20 font-bold text-white mb-10 title-section flex items-center justify-center flex-col" data-aos="zoom-in-up" >
           <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
           <h4>Latest Project Experience</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
@@ -41,10 +41,10 @@ export default {
         </div>
       </header>
         <div>
-          <div class="grid grid-cols-1 gap-4 pb-32 md:grid-cols-3 md:gap-3 xl:grid-cols-3 xl:gap-3 2xl:gap-5 fade-zoom-in">
+          <div class="grid grid-cols-1 gap-4 pb-32 md:grid-cols-3 md:gap-3 xl:grid-cols-3 xl:gap-3 2xl:gap-5 fade-zoom-in" data-aos="zoom-in-up">
             <div v-for="item in items" :key="item.id">
               <div
-                class="item-card flex flex-col items-center gap-2 rounded bg-[#111a3e] hover:bg-[#1c2444] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
+                class="item-card flex flex-col items-center h-[26rem] gap-2 rounded bg-[#111a3e] hover:bg-[#1c2444] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
                   <img alt="HTML" loading="lazy" decoding="async" data-nimg="1" class="drop-shadow-xl rounded-xl h-[200px] w-[400px]"
                     :src="'/img/portfolio-' + item.imageUrl + '.JPG'">
