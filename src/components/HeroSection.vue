@@ -69,7 +69,7 @@
                   <div class="download-loader text-white hidden"></div>
                 </div>
                 <a
-                  href="@/assets/resume.pdf"
+                  href="/resume.pdf"
                   download="resume.pdf"
                   class="pl-2 text-primary"
                 >
@@ -94,7 +94,7 @@
                 alt="Hero pict"
                 width="500"
                 height="auto"
-                loading="lazy"
+                loading="lazy" 
                 class=" lg:w-full lg:h-full md:w-full md:h-full sm:w-full sm:h-full xs:w-full xs:h-full w-full h-full rounded-full object-cover contrast-100 saturate-100 hue-rotate-15"
               />
             </div>

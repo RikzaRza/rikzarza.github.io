@@ -15,12 +15,30 @@ export default {
         },
         {
           id: 2,
-          name: 'Project',
-          imageUrl: 'project',
+          name: 'Antrian Puskesmas',
+          imageUrl: 'puskesmas',
           status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          tech: 'Codeigniter3, Bootstrap',
+          github: 'https://github.com/RikzaRza/antrian-puskesmas',
+          demo: 'null'
+        },
+        {
+          id: 3,
+          name: 'Rental Mobil',
+          imageUrl: 'rentcar',
+          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          tech: 'Codeigniter3, Bootstrap',
+          github: 'https://github.com/RikzaRza/rentcar',
+          demo: 'null'
+        },
+        {
+          id: 4,
+          name: 'Pustaka Booking',
+          imageUrl: 'pustaka-booking',
+          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          tech: 'Codeigniter3, Bootstrap',
+          github: 'https://github.com/RikzaRza/pustaka-booking1',
+          demo: 'null'
         }
       ]
     };
@@ -35,7 +53,7 @@ export default {
         <div
           class="text-2xl mt-20 font-bold text-white mb-10 title-section flex items-center justify-center flex-col" data-aos="zoom-in-up" >
           <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
-          <h4>Latest Project Experience</h4>
+          <h4>Project Experience</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
             Explore the projects I've worked on so far</h4>
         </div>
