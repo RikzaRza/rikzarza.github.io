@@ -47,7 +47,7 @@ export default {
                 class="item-card flex flex-col items-center gap-2 rounded bg-[#111a3e] hover:bg-[#27315a] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
                   <img alt="HTML" loading="lazy" decoding="async" data-nimg="1" class="drop-shadow-xl rounded-xl h-[200px] w-[400px]"
-                    :src="'src/assets/portfolio-' + item.imageUrl + '.JPG'">
+                    :src="'./src/assets/portfolio-' + item.imageUrl + '.JPG'">
                 </div>
                 <div class="w-full flex flex-col gap-2 items-center text-sm md:text-base lg:text-lg">
                   <div class="title-text font-medium text-primary">{{ item.name }}
