@@ -17,7 +17,7 @@ export default {
           id: 2,
           name: 'Antrian Puskesmas',
           imageUrl: 'puskesmas',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          status: 'A web-based information system application for patients to take queues online ',
           tech: 'Codeigniter3, Bootstrap',
           github: 'https://github.com/RikzaRza/antrian-puskesmas',
           demo: 'null'
@@ -26,7 +26,7 @@ export default {
           id: 3,
           name: 'Rental Mobil',
           imageUrl: 'rentcar',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          status: 'My second assignment is to create a website-based car rental information system application.',
           tech: 'Codeigniter3, Bootstrap',
           github: 'https://github.com/RikzaRza/rentcar',
           demo: 'null'
@@ -35,7 +35,7 @@ export default {
           id: 4,
           name: 'Pustaka Booking',
           imageUrl: 'pustaka-booking',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          status: 'My first college assignment was to create a website-based library booking information system project.',
           tech: 'Codeigniter3, Bootstrap',
           github: 'https://github.com/RikzaRza/pustaka-booking1',
           demo: 'null'
